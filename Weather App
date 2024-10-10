@@ -5,7 +5,7 @@ import json
 
 # List of cities for autocomplete
 global cities
-cities = ["Anantapur", "Chittoor", "East Godavari", "Ahmedabad", "Amreli", "Bharuch", "Kheda (Nadiad)", "Vadodara",
+cities = ["Bhopal", "Gairatganj", "Burhanpur", "Chhindwara", "Bharuch", "Kheda (Nadiad)", "Vadodara",
           "Valsad", "Surendranagar", "Surat", "Rajkot", "Patan", "Navsari", "Narmada", "Morbi", "Mehsana", "Junagadh",
           "Jamnagar", "Gir Somnath", "Dahod", "Dang", "Devbhoomi Dwarka", "Gandhinagar", "Botad", "Bhavn", "Bilaspur",
           "Chamba", "Hamirpur", "Kangra", "Kinnaur", "Kullu", "Mandi", "Shimla", "Sirmaur", "Solan", "Una", "Bokaro",
